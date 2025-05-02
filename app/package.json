@@ -1,0 +1,24 @@
+{
+  "name": "twentytwentyfive-child",
+  "version": "1.0.0",
+  "description": "Uniwersalny edytor motywów potomnych WordPress z obsługą SCSS i gotowym systemem kompilacji.  \r Umożliwia łatwe stylowanie dowolnego motywu nadrzędnego za pomocą jednego pliku `scss/main.scss`.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch ./src/main.scss --no-source-map ../style.css",
+    "build": "sass ./src/main.scss ../style.css --no-source-map --style=expanded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbloski/Wordpress-Theme-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbloski/Wordpress-Theme-Editor/issues"
+  },
+  "homepage": "https://github.com/kbloski/Wordpress-Theme-Editor#readme",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
+}
