@@ -2,8 +2,8 @@
 /**
  * 
  * @package WordPress
- * @subpackage Twenty_Twenty_Five
- * @since Twenty Twenty-Five 1.0
+ * @subpackage 
+ * @since 
  * 
  * @author Kamil Błoński
  */
