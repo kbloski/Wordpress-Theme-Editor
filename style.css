@@ -1,8 +1,14 @@
+@charset "UTF-8";
 /*
-Theme Name:     Twenty Twenty-Five Child
-Template:       twentytwentyfive
+Theme Name:     New Style 
+Template:       Edited
 Version:        1.0
+Author:         Kamil Błoński
+Author URI:     https://github.com/kbloski
+Description:    Good Life 😁
+License:        GNU General Public License v2 or later
+Tags: noTags
 */
 body {
-  color: greenyellow;
+  color: gray !important;
 }
